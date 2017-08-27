@@ -1,77 +1,45 @@
-body{
+.wrapper{
 	width: 600px;
-	height: 600px;
-	margin: 0;
+	font-size: 0px;
 }
 .a8{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(133, 0, 0);
+	background: maroon;
 }
 .b8{
 	display: inline-block;
-	width: 200px; height: 200px;
-	background: rgb(255, 255, 255);
-	margin-left: -4px;
+	width: 200px; height: 200px;	
 }
 .c8{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(133, 0, 0);
-	margin-left: -4px;
+	background: maroon;	
 }
 .a7{
 	display: inline-block;
-	width: 200px; height: 200px;
-	background: rgb(255, 255, 255);
-	margin-top: -4px;
+	width: 200px; height: 200px;	
 }
 .b7{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(133, 0, 0);
-	margin-left: -4px;
-	margin-top: -4px;
-	}
+	background: maroon;	
+}
 .c7{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(255, 255, 255);
-	margin-left: -4px;
-	margin-top: -4px;
 }
 .a6{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(133, 0, 0);
-	margin-top: -4px;
+	background: maroon;	
 }
 .b6{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(255, 255, 255);
-	margin-left: -4px;
-	margin-top: -4px;
-	}
+}
 .c6{
 	display: inline-block;
 	width: 200px; height: 200px;
-	background: rgb(133, 0, 0);
-	margin-left: -4px;
-	margin-top: -4px;
-}
-.black_bishop{
-	position: absolute;
-	top: 0px;
-	left: 200px;
-}
-.white_knight{
-	position: absolute;
-	top: 200px;
-	left: 0px;	
-}
-.white_rook{
-	position: absolute;
-	top: 400px;
-	left: 200px;
+	background: maroon;	
 }
