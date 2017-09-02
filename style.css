@@ -2,44 +2,13 @@
 	width: 600px;
 	font-size: 0px;
 }
-.a8{
+.maroon{
 	display: inline-block;
 	width: 200px; height: 200px;
 	background: maroon;
 }
-.b8{
+.white{
 	display: inline-block;
 	width: 200px; height: 200px;	
 }
-.c8{
-	display: inline-block;
-	width: 200px; height: 200px;
-	background: maroon;	
-}
-.a7{
-	display: inline-block;
-	width: 200px; height: 200px;	
-}
-.b7{
-	display: inline-block;
-	width: 200px; height: 200px;
-	background: maroon;	
-}
-.c7{
-	display: inline-block;
-	width: 200px; height: 200px;
-}
-.a6{
-	display: inline-block;
-	width: 200px; height: 200px;
-	background: maroon;	
-}
-.b6{
-	display: inline-block;
-	width: 200px; height: 200px;
-}
-.c6{
-	display: inline-block;
-	width: 200px; height: 200px;
-	background: maroon;	
-}
+
