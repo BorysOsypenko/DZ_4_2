@@ -4,11 +4,14 @@
 }
 .maroon{
 	display: inline-block;
-	width: 200px; height: 200px;
+	width: 200px; 
+	height: 200px;
 	background: maroon;
 }
 .white{
 	display: inline-block;
-	width: 200px; height: 200px;	
+	width: 200px; 
+	height: 200px;
+	background: #fff;	
 }
 
