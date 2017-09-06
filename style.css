@@ -2,16 +2,15 @@
 	width: 600px;
 	font-size: 0px;
 }
-.maroon{
-	display: inline-block;
+.maroon, .white{
 	width: 200px; 
 	height: 200px;
+	display: inline-block;
+}
+.maroon{
 	background: maroon;
 }
 .white{
-	display: inline-block;
-	width: 200px; 
-	height: 200px;
 	background: #fff;	
 }
 
